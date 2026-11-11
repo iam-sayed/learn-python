@@ -1,0 +1,7 @@
+[
+    {"user": "ali", "status": "success"},
+    {"user": "sara", "status": "failed"},
+    {"user": "ali", "status": "success"},
+    {"user": "omar", "status": "success"},
+    {"user": "", "status": "success"}
+]
