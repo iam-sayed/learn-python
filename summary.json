@@ -1,0 +1,8 @@
+{
+    "successful_count": 3,
+    "successful_by_user": {
+        "ali": 2,
+        "omar": 1
+    },
+    "skipped_event": 1
+}
